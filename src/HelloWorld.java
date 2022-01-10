@@ -5,6 +5,7 @@ public class HelloWorld {
     // commit , keeps track of the changes and then
 
     // let me do work
+    // you have stage file in order to commit the changes
 
 
 }
